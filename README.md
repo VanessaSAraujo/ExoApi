@@ -1,4 +1,9 @@
 # Projeto Exo.WebApi
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=5849BE)
+![C#](https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=csharp&logoColor=5849BE)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=5849BE)
+
 
 Este projeto é uma API desenvolvida em ASP.NET Web API com Entity Framework para gerenciar projetos.
 
