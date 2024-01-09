@@ -12,3 +12,7 @@ Este projeto foi desenvolvido como parte de uma atividade para criar a estrutura
 - Entity Framework Core
 - C#
 - SQL Server
+
+## Atualizações
+
+Foi realizado o complemento elaborando o restante do CRUD e testado as operações no Insomnia
