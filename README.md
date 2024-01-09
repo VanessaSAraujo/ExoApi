@@ -22,3 +22,4 @@ Este projeto foi desenvolvido como parte de uma atividade para criar a estrutura
 
 Foi realizado o complemento elaborando o restante do CRUD e testado as operações no Insomnia, além disso foi criado um CRUD para usuários e também testado através do Insomnia.
 
+Foi implementado o método de login e CORS no projeto. Nesse método de login necessita de um token para que certas operações no sistema sejam realizadas.
