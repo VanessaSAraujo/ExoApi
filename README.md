@@ -20,5 +20,5 @@ Este projeto foi desenvolvido como parte de uma atividade para criar a estrutura
 
 ## Atualizações
 
-Foi realizado o complemento elaborando o restante do CRUD e testado as operações no Insomnia, além disso foi criado um CRUD para usuários.
+Foi realizado o complemento elaborando o restante do CRUD e testado as operações no Insomnia, além disso foi criado um CRUD para usuários e também testado através do Insomnia.
 
