@@ -270,3 +270,4 @@ F:\hyd antigo\Programação Full Stack\Backend\Desenvolvimento de API\MATERIAL-P
 F:\hyd antigo\Programação Full Stack\Backend\Desenvolvimento de API\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 F:\hyd antigo\Programação Full Stack\Backend\Desenvolvimento de API\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 F:\hyd antigo\Programação Full Stack\Backend\Desenvolvimento de API\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+F:\hyd antigo\Programação Full Stack\Backend\Desenvolvimento de API\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
